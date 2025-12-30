@@ -1,4 +1,4 @@
-# Smart Speed Warning System 🚗⚠️
+# Smart Speed Warning System 
 
 ## Description
 This project is an Arduino-based smart safety system that detects the speed of a moving vehicle using an ultrasonic sensor.
