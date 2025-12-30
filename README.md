@@ -33,5 +33,4 @@ Unlike traditional traffic lights, this system reacts dynamically based on vehic
 - KADIM amina
 - BENHADDOU fatima zahrae
 - MELAYGI malak
-Wiam Jeffali
 
