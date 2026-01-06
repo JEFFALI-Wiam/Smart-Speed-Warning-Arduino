@@ -29,8 +29,8 @@ Unlike traditional traffic lights, this system reacts dynamically based on vehic
 - Smart city projects
 
 ## Team Members
-- JEFFALI wiam
-- KADIM amina
-- BENHADDOU fatima zahrae
-- MELAYGI malak
+- [@JEFFALI-Wiam](https://github.com/JEFFALI-Wiam)
+- [@kadimAmina](https://github.com/kadimAmina)
+- [@fatimazahrabenhaddou24-prog](https://github.com/fatimazahrabenhaddou24-prog)
+- [@Malakmelaygi](https://github.com/Malakmelaygi)
 
